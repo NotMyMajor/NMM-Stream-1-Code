@@ -3,5 +3,8 @@ The program that we wrote in the first ever NotMyMajor live Twitch stream! Twitc
 
 I've inlcuded a pre-packaged installer and the raw Python code as well! Feel free to use either!
 
-Follow NotMyMajor on:
-Youtube: 
+Find NotMyMajor on:
+
+YouTube: https://www.youtube.com/channel/UC3AAzOir9-2zWmsJFtfxhcw
+Twitch: https://www.twitch.tv/notmymajor
+GitHub: https://github.com/NotMyMajor
