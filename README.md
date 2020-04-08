@@ -3,6 +3,9 @@ The program that we wrote in the first ever NotMyMajor live Twitch stream! Twitc
 
 I've inlcuded a pre-packaged installer and the raw Python code as well! Feel free to use either!
 
+## In this stream we:
+Wrote a terrible little script that lets you print infinite cats, play some terrible tic-tac-toe, and randomly shuffle a deck of cards forever!
+
 ## Find NotMyMajor on:
 
 YouTube: https://www.youtube.com/channel/UC3AAzOir9-2zWmsJFtfxhcw
