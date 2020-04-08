@@ -3,7 +3,7 @@ The program that we wrote in the first ever NotMyMajor live Twitch stream! Twitc
 
 I've inlcuded a pre-packaged installer and the raw Python code as well! Feel free to use either!
 
-##Find NotMyMajor on:
+## Find NotMyMajor on:
 
 YouTube: https://www.youtube.com/channel/UC3AAzOir9-2zWmsJFtfxhcw
 
